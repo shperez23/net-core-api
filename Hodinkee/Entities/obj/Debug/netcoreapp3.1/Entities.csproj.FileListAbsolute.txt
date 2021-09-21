@@ -1,0 +1,9 @@
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

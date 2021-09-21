@@ -1,0 +1,14 @@
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

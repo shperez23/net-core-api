@@ -1,0 +1,12 @@
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\Sergio Perez\Desktop\Hodinkee\Hodinkee\Services\obj\Debug\netcoreapp3.1\Services.pdb
